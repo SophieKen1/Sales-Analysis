@@ -16,6 +16,8 @@
 ### Project Overview
 To analyze sales data to uncover insights that drive decision-making, improve revenue, and optimize sales strategies for the client.
 
+![canva wprthy1](https://github.com/user-attachments/assets/23502d34-7a98-421c-9c2f-6b182135a635)
+
 ### Data Sources
 Sales Data: The primary dataset used for this analysis  is  containing detailed information about each sales made by the company.
 
